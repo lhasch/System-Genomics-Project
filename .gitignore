@@ -1,0 +1,8 @@
+# Paper PDF (copyrighted)
+*.pdf
+
+# Jupyter / R temporary files
+.ipynb_checkpoints/
+.Rhistory
+.RData
+.Rproj.user/
