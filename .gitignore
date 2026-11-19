@@ -6,3 +6,6 @@
 .Rhistory
 .RData
 .Rproj.user/
+
+# Cached analysis results (recomputed on first run)
+Data/cache/

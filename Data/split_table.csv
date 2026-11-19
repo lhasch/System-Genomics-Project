@@ -1,5 +1,5 @@
 "","rho","p_cor","n_genes","n_reversed","pct_reversed","p_binom"
-"diet, genes UP with age",-0.165,0.0281,177,100,56.5,0.0979
-"diet, genes DOWN with age",0.292,0.0182,65,29,44.6,0.457
-"plasma, genes UP with age",0.014,0.857,177,108,61,0.00416
-"plasma, genes DOWN with age",0.167,0.183,65,38,58.5,0.215
+"diet, genes UP with age",-0.153,0.0488,166,91,54.8,0.244
+"diet, genes DOWN with age",0.364,0.00929,50,21,42,0.322
+"plasma, genes UP with age",-0.082,0.294,166,103,62,0.00237
+"plasma, genes DOWN with age",0.286,0.0443,50,32,64,0.0649
